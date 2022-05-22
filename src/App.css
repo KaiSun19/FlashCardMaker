@@ -1,0 +1,24 @@
+
+.app-title{
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+.flashcards{
+    display: flex;
+    flex-direction: row;
+}
+
+.modal-button-container{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+}
+
+.btn{
+    background-color: black;
+}
+
+.flashcard-div{
+    margin: 1% 1% 1% 1%;
+}
